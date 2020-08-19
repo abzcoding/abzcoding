@@ -3,15 +3,15 @@
 <br/>
 
 
-![](https://komarev.com/ghpvc/?username=abzcoding)
 
 
 
----------
+
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=abzcoding&show_icons=true&theme=tokyonight&count_private=true />
 </p>
----------
+
+<br/>
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -32,3 +32,5 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/mac.svg" style="margin:6px 4px">
   <br>
 </p>
+
+![](https://komarev.com/ghpvc/?username=abzcoding)
