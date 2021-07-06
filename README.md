@@ -17,12 +17,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://neovim.io/">
+  <a href="https://github.com/ChristianChiarulli/LunarVim">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Neovim" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px">
   </a>
  
   <a href="https://www.apple.com/macbook-pro-16/">
