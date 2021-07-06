@@ -32,7 +32,7 @@
 
 ---
 ### 🔭 I’m currently working on ...
- - Creating a security as a service system for the cloud era at <a href="https://github.com/sotoon"> 🏢 Sotoon</a> 
+ - Creating security as a service platform for the cloud era at <a href="https://github.com/sotoon"> 🏢 Sotoon</a> 
 
 
 ---
