@@ -33,6 +33,7 @@
 ---
 ### 🔭 I’m currently working on ...
  - Creating security as a service platform for the cloud era at <a href="https://github.com/sotoon"> 🏢 Sotoon</a> 
+ - Maintaining the awesome <a href="https://github.com/ChristianChiarulli/LunarVim"> 🌑 LunarVim Project </a>
 
 
 ---
