@@ -56,6 +56,9 @@
   <a href="https://www.hackerrank.com/profile/abouzar_parvan">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/hackerrank.svg" alt="HackerRank" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://exercism.io/profiles/abzcoding">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/excercism.svg" alt="excercism" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ---
