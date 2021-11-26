@@ -1,8 +1,8 @@
 ### Hi there 🎉🎈🎉🎈
 
-<p align="left">
+<!-- <p align="left">
   <img src=https://github-readme-stats.vercel.app/api?username=abzcoding&show_icons=true&theme=tokyonight&count_private=true />
-</p>
+</p> -->
 
 ---
 ### 🚧 I build with...
