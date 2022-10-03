@@ -59,12 +59,3 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/excercism.svg" alt="excercism" style="vertical-align:top; margin:4px">
   </a>
 </p>
-
----
-### ₿ Donation
-
-- _Bitcoin_: `bc1qwcvat8ml2kmze9n625s82kxu7fakkl0k0m2553`
-- _Ethereum_: `0xe7d484146cB3a8432959b23A64c3A472ea0fb6b0`
-- _Tether_: `0xe7d484146cB3a8432959b23A64c3A472ea0fb6b0`
-- _DodgeCoin_: `DEL7ysLmY3JV6es5GXQz7DMo1fQphTvtY7`
-- _Monero_: `4BD3vXMGjzX6YoBHiDTWZndgGkWAn6DtZKymHmSTvAu2B5Csf1fMvLKLLDe8YT16n5Z5JYiwrfzEnZSh9vqCa6kUErJ8LAc`
