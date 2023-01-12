@@ -1,7 +1,7 @@
 ### Hi there 🎉🎈🎉🎈
 
 <p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=abzcoding&show_icons=true&theme=tokyonight&count_private=true />
+  <img src=https://bad-apple-github-readme.vercel.app/api?username=abzcoding&show_icons=true&theme=tokyonight&count_private=true />
 </p>
 
 ---
