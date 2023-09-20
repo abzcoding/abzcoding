@@ -30,12 +30,6 @@
 </p>
 
 ---
-### 🔭 I’m currently working on ...
- - Creating security as a service platform for the cloud era at <a href="https://sotoon.ir/"> 🏢 Sotoon</a> 
- - Maintaining the awesome <a href="https://github.com/LunarVim/LunarVim"> 🌑 LunarVim Project </a>
-
-
----
 ### 🌱 I’m currently learning
 <p>
   <a href="https://www.rust-lang.org/">
